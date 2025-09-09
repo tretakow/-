@@ -1,0 +1,49 @@
+:root * {
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.l-none {
+  list-style: none;
+}
+
+body {
+  background-color: #F8F8F8;
+}
+
+#layaut-20 > div:last-child > div > img {
+  margin-right: -1rem;
+  margin-top: -2rem;
+}
+
+#layaut-30 > div > p > img {
+  background-color: red;
+  padding: 0.2rem;
+  border-radius: 1rem;
+  margin-right: 0.5rem;
+}
+
+.p-absolute {
+  position: absolute;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.red-cercle {
+  background-image: url(Ellipse95.png);
+  aspect-ratio: 1;
+  background-repeat: no-repeat;
+  height: 3rem;
+}
+
+.border-pink {
+  border: solid 0.25rem rgba(250, 0, 44, 0.1490196078);
+}
+
+.accordion *:hover, .accordion *:active, .accordion *, .accordion-button:not(.collapsed) {
+  background-color: #F8F8F8;
+  box-shadow: none;
+}/*# sourceMappingURL=auto-shope-mine.css.map */
